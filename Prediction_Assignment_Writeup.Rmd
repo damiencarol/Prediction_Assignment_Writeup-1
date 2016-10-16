@@ -2,7 +2,7 @@
 title: "Prediction Assignment Writeup"
 author: "Maciej Glinkowski"
 date: "October 16, 2016"
-output: html_document
+output: html_document 
 ---
 
 The goal of this project is to predict the manner in which people did the exercise.
